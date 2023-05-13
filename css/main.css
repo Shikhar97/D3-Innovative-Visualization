@@ -1,0 +1,76 @@
+.material-symbols-outlined {
+    padding: 10px;
+    margin-top: 10px;
+    font-variation-settings: 'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 20
+}
+
+.heading-name {
+    margin-bottom: -2px;
+}
+
+.card-header {
+    padding: 5px;
+}
+
+html, body {
+    height: 100%;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    fill: #242424;
+    text-align: center;
+    cursor: default;
+}
+
+.legend {
+    font-family: 'Open Sans', sans-serif;
+    fill: #333333;
+}
+
+.tooltip {
+    fill: #333333;
+    color: black;
+}
+
+#side_graph {
+    height: 600px;
+}
+
+
+h1 {
+    text-align: center;
+    height: 38px;
+    margin: 60px 0;
+}
+
+h1 span {
+    white-space: nowrap;
+}
+
+
+#bubble_div {
+    background-image: url("bck.jpeg");
+
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 5px;
+}
+
+#planet_year {
+    background-color: #f8f9fc;
+    border: 1px #f8f9fc solid;
+    padding-right: 15px;
+}
