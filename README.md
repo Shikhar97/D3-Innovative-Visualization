@@ -16,11 +16,11 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/Shikhar97/D3-Innovative-Visualization.git
     
     ```
 
-2. **Run the development server:**
+2. **Run the local server:**
     ```python3 -m http.server 8080
     ```
 
@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 ## Data Source
 
-The NASA Exoplanets dataset is sourced from [NASA](link_to_dataset_source). Ensure compliance with NASA's data usage policies when working with this dataset.
+The NASA Exoplanets dataset is sourced from [NASA](https://www.kaggle.com/datasets/adityamishraml/nasaexoplanets). Ensure compliance with NASA's data usage policies when working with this dataset.
 
 ## Technologies Used
 
