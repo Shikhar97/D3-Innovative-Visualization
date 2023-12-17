@@ -21,7 +21,8 @@ To set up the project locally, follow these steps:
     ```
 
 2. **Run the local server:**
-    ```python3 -m http.server 8080
+    ```bash
+    python3 -m http.server 8080
     ```
 
     This will start a local development server, and you can access the visualization at `http://localhost:8080` in your web browser.
